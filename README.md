@@ -88,6 +88,15 @@ To democratize financial literacy and empowerment by providing accessible, intel
 
 ---
 
+## 👩‍💻 My Contributions
+
+- Implemented an automated financial milestone detection system to track and log user achievements (e.g., debt clearance, partial savings goals)
+
+- Developed a personalized recommendation engine that analyzes income and spending behavior to generate actionable savings strategies
+
+- Built an AI-based assistant to recommend income-generating opportunities based on user profile, skills, and location data
+---
+
 ## 🛠 Tech Stack
 
 ### **Frontend**
