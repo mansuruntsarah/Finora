@@ -12,9 +12,6 @@
 
 Whether you're a student managing pocket money, a professional planning investments, or someone looking to optimize their finances, Finora adapts to your needs with its intelligent AI assistant and comprehensive financial tools.
 
-### Mission
-To democratize financial literacy and empowerment by providing accessible, intelligent, and personalized financial management tools for everyone.
-
 ---
 
 ## ✨ Key Features
