@@ -1,29 +1,8 @@
 # 💰 Finora - AI-Powered Personal Finance Management Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-green)](https://nodejs.org/)
 [![React Version](https://img.shields.io/badge/React-18.3+-blue)](https://reactjs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.19+-lightgrey)](https://expressjs.com/)
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Project Architecture](#project-architecture)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
-- [Database Models](#database-models)
-- [Configuration](#configuration)
-- [Features in Detail](#features-in-detail)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ---
 
@@ -713,87 +692,6 @@ VITE_APP_NAME=Finora
 
 ---
 
-## 💡 Features in Detail
-
-### 1. **Smart Expense Tracking**
-- Automatic categorization using AI
-- Receipt scanning (future feature)
-- Bulk import from bank statements
-- Real-time expense notifications
-
-### 2. **Intelligent Budget Management**
-- Dynamic budget recommendations based on history
-- Spending pattern analysis
-- Budget variance alerts
-- Multi-currency support
-
-### 3. **Goal Planning & Tracking**
-- SMART goal creation
-- Progress visualization
-- Automated savings suggestions
-- Milestone achievements and celebrations
-
-### 4. **AI-Powered Insights**
-- Spending analysis and trends
-- Personalized financial recommendations
-- Predictive scenario modeling
-- Financial personality assessment
-
-### 5. **Financial Education**
-- Curated finance lessons
-- Beginner to advanced content
-- Interactive quizzes
-- Progress tracking
-
-### 6. **Debt Management**
-- Multiple debt tracking
-- Interest calculation
-- Payment strategy recommendations
-- Payoff timeline visualization
-
-### 7. **Emotional Finance Tracking**
-- Connect emotions to spending
-- Stress pattern analysis
-- Wellness recommendations
-- Mental health finance integration
-
-### 8. **Real-time Notifications**
-- Budget milestone alerts
-- Bill payment reminders
-- Goal progress notifications
-- Custom alert preferences
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to Finora! Here's how to get started:
-
-### Development Setup
-```bash
-# 1. Fork the repository
-# 2. Clone your fork
-git clone https://github.com/yourusername/Finora.git
-
-# 3. Create a feature branch
-git checkout -b feature/amazing-feature
-
-# 4. Make your changes and commit
-git commit -m 'Add amazing feature'
-
-# 5. Push to your fork
-git push origin feature/amazing-feature
-
-# 6. Open a Pull Request
-```
-
-### Coding Standards
-- Follow ESLint configuration
-- Use meaningful variable names
-- Add comments for complex logic
-- Write descriptive commit messages
-- Test your changes locally
-
 ### Reporting Bugs
 Please use the GitHub Issues tab to report bugs with:
 - Clear description of the issue
@@ -804,62 +702,12 @@ Please use the GitHub Issues tab to report bugs with:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
-### MIT License Summary
-You are free to:
-- ✅ Use commercially
-- ✅ Modify the code
-- ✅ Distribute the software
-- ✅ Use privately
-
-Subject to:
-- ℹ️ License and copyright notice
-
----
-
-## 💬 Support
-
-### Getting Help
-- **Documentation**: Check the README and inline code comments
-- **Issues**: Browse existing or create new issues on GitHub
-- **Email**: [Your contact email]
-
-### Community
-- Share your feedback and feature requests
-- Connect with other users
-- Contribute to discussions
-
 ### Resources
 - [Express.js Documentation](https://expressjs.com/)
 - [React Documentation](https://react.dev/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [Google Generative AI API](https://ai.google.dev/)
 - [Vite Documentation](https://vitejs.dev/)
-
----
-
-## 🚀 Roadmap
-
-### Upcoming Features
-- [ ] Mobile app (React Native)
-- [ ] Voice-based expense logging
-- [ ] Advanced investment tracking
-- [ ] Cryptocurrency portfolio tracking
-- [ ] Tax optimization recommendations
-- [ ] Social features (compare with friends - anonymously)
-- [ ] Bank integration (Plaid)
-- [ ] Advanced AI predictions (ML models)
-- [ ] Multi-language support
-- [ ] Advanced reporting and exports
-
-### Performance Improvements
-- [ ] Database query optimization
-- [ ] Frontend code splitting
-- [ ] Image optimization
-- [ ] Caching strategies
 
 ---
 
@@ -880,15 +728,6 @@ Subject to:
 - Powered by Google's Generative AI
 - Inspired by leading fintech solutions
 - Community contributions and feedback
-
----
-
-## ✉️ Contact & Social
-
-- **Email**: contact@finora.dev
-- **GitHub**: [GitHub Link]
-- **Twitter**: [@FinoraApp](https://twitter.com)
-- **LinkedIn**: [LinkedIn Profile]
 
 ---
 
